@@ -7,7 +7,13 @@ It allows a Canon EOS 60D DSLR camera to take **single or burst photos** based o
 Designed for remote wildlife photography or security use cases, the system is battery-powered, weather-resistant, and coded in C++ (PlatformIO).
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3dce72b2-35b2-474d-8af1-b542c9cf6bbe" width="700px" alt="Block diagram – motion-triggered photo trap using ESP32" />
+  <img src="https://github.com/user-attachments/assets/3dce72b2-35b2-474d-8af1-b542c9cf6bbe" width="700px" />
+  <img src="https://github.com/user-attachments/assets/cbbe2b8a-b698-4503-8e93-84ec607fb8a8" width="700px" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5daa53d7-69e6-4c39-990c-80103ba649e0" width="250px" />
+  <img src="https://github.com/user-attachments/assets/c45acc60-9797-44b3-963a-3d7138135b36" width="250px" />
 </p>
 
 ## 🧠 Features
