@@ -7,8 +7,8 @@ It allows a Canon EOS 60D DSLR camera to take **single or burst photos** based o
 Designed for remote wildlife photography or security use cases, the system is battery-powered, weather-resistant, and coded in C++ (PlatformIO).
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3dce72b2-35b2-474d-8af1-b542c9cf6bbe"/>
-  <img src="https://github.com/user-attachments/assets/cbbe2b8a-b698-4503-8e93-84ec607fb8a8"/>
+  <img src="https://github.com/user-attachments/assets/3dce72b2-35b2-474d-8af1-b542c9cf6bbe" width="300px"/>
+  <img src="https://github.com/user-attachments/assets/cbbe2b8a-b698-4503-8e93-84ec607fb8a8" width="300px"/>
 </p>
 
 <p align="center">
